@@ -1,7 +1,6 @@
 # Text-scraping-and-mining-Wikipedia
 
-* Obtaining related words, for a set of given keywords, using wikipedia pages of top 100 countries by GDP like  
-  
+* Obtaining related words, for a set of given keywords, using wikipedia pages of top 100 countries by GDP like
 https://en.wikipedia.org/wiki/Economy_of_the_United_States  
 https://en.wikipedia.org/wiki/Economy_of_Germany  
 https://en.wikipedia.org/wiki/Economy_of_Spain  
